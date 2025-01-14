@@ -1,6 +1,6 @@
 ---
 title: 'Ubuntu_Java环境配置'
-description: 'Ubuntu_Java环境配置'
+description: ''
 categories: ['笔记']
 pubDate: 2018-03-16 16:51:49
 ---
