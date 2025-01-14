@@ -1,6 +1,7 @@
 ---
 title: 'restart'
 description: 'restart'
+categories: ['随笔']
 pubDate: 2016-12-29 16:51:49
 ---
 

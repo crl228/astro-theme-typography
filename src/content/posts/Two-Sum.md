@@ -1,6 +1,7 @@
 ---
 title: 'Two Sum'
 description: 'Two Sum'
+categories: ['算法']
 pubDate: 2017-02-27 16:51:49
 ---
 

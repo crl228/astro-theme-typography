@@ -1,6 +1,7 @@
 ---
 title: 'Ubuntu Docker安装'
 description: 'Ubuntu Docker安装'
+categories: ['笔记']
 pubDate: 2018-12-05 16:51:49
 ---
 

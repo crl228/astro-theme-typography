@@ -47,7 +47,7 @@ export const defaultConfig: ThemeConfig = {
         href: '/about',
       },
     ],
-    // categoryMap: [{ name: '胡适', path: 'hu-shi' }],
+    categoryMap: [{ name: '随笔', path: 'think' },{ name: '笔记', path: 'note' }],
     footer: [
       '© %year <a target="_blank" href="%website">%author</a>',
       'Theme <a target="_blank" href="https://github.com/Moeyua/astro-theme-typography">Typography</a> by <a target="_blank" href="https://moeyua.com">Moeyua</a>',

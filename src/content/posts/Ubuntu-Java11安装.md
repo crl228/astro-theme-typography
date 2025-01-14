@@ -1,6 +1,7 @@
 ---
 title: 'Ubuntu Java11安装'
 description: 'Ubuntu Java11安装'
+categories: ['笔记']
 pubDate: 2019-03-10 15:12:11
 ---
 
