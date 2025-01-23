@@ -5,8 +5,8 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: 'To Be A Coder',
-    subtitle: 'Stay hungry, stay foolish',
+    title: 'Fear less,Hope more,Dream bigger',
+    subtitle: "I know I have nowhere to go in this world,It's just who are you to judge my soul.",
     author: 'Freedom',
     description: 'Every programmer is an author',
     website: 'https://x20a.xyz',
